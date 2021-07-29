@@ -1,0 +1,2 @@
+rootProject.name = "OdxApiTest"
+include ':app'
