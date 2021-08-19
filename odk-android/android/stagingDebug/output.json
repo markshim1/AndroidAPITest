@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ondemandkorea.android.staging",
+  "variantName": "stagingDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 117002,
+      "versionName": "117002",
+      "enabled": true,
+      "outputFile": "android-stagingDebug.apk"
+    }
+  ]
+}

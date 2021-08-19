@@ -1,0 +1,3 @@
+[submodule "AndroidAPITest/odx-android-api-auth"]
+	path = AndroidAPITest/odx-android-api-auth
+	url = https://github.com/odkmedia/odx-android-api-auth.git
